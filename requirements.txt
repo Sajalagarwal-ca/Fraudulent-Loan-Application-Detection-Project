@@ -1,0 +1,13 @@
+numpy
+Pandas
+Matplotlib
+seaborn
+ydata_profiling
+scikit-learn
+XGBoost
+CatBoost
+LightGBM
+imblearn
+warnings
+Pickle
+ipywidgets

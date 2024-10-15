@@ -1,0 +1,8 @@
+.venv
+venv
+.csv
+catboost_info
+catboost_info/
+Pickle/
+logs/
+tmp/
